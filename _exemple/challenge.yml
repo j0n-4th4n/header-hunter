@@ -1,0 +1,34 @@
+name: "MyChallenge"
+author: "Dieu"
+category: Web
+description: |-4
+    My description in english
+
+    Auteur : VotreHandleDiscord
+
+connection_info: https://blabla-url.com
+
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+flags:
+    - PWNME{flagizi}
+
+# Visible uniquement par les admins du CTFd
+topics:
+    - EasyChallenge
+    - SkillIsuse
+
+# Les tags sont visibles par les joueurs
+tags:
+    - Insane
+
+# Pièces jointes du challenge
+files:
+    - files/my-file.zip
+
+version: "0.1"
