@@ -1,0 +1,27 @@
+name: "64 nuances de C"
+author: "Gamardz"
+category: Reverse
+description: |-4
+    C'est quoi ce ****** de base.. ?!
+
+    Auteur : Gamardz
+
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+flags:
+    - PWNME{C_p1s_6_c0mplique}
+
+tags:
+  - Reverse
+  - Easy
+  - C
+
+files:
+  - files/chall
+
+version: "0.1"
