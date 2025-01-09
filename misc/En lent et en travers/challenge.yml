@@ -1,6 +1,6 @@
 name: "En lent et en travers"
 author: "Horus"
-category: Forensic
+category: Misc
 description: |-4
     J'ai voulu communiquer avec l'I.S.S. mais je n'arrive pas à interpréter cet audio que j'ai reçu sur mon récepteur VHF FM. Pouvez-vous m'aider ?
 
@@ -25,7 +25,7 @@ topics:
 
 # Les tags sont visibles par les joueurs
 tags:
-    - Forensic
+    - Misc
     - Easy
 
 # Pièces jointes du challenge
