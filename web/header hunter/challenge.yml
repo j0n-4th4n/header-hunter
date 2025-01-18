@@ -1,0 +1,37 @@
+name: "Header hunter"
+author: "John"
+category: Web
+description: |-4
+    Navigating the internet is cool, 
+    but what's even cooler is understanding 
+    how machines communicate with each other
+    in the web.
+    
+    Auteur : jon4_th4n
+
+connection_info: https://blabla-url.com
+
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+flags:
+    - PWNME{st4tus_c0d3_2600_fl4g_f0und}
+
+# Visible uniquement par les admins du CTFd
+topics:
+    - EasyChallenge
+    - PacketNetwork
+    - StatusCat
+
+# Les tags sont visibles par les joueurs
+tags:
+    - Web
+
+# Pièces jointes du challenge
+files:
+
+version: "0.1"
